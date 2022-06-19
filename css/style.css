@@ -28,6 +28,7 @@ body {
 }
 
 #outside-title {
+  width: 100%; 
   color: #20d0ce;
   font-size: 40px;
   font-weight: 700;
